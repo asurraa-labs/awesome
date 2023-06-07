@@ -1,5 +1,5 @@
 # Awesome
-> recommend list of techology we try and using.
+> Recommend list of techology we try and using.
 
 
 ### Backend 
